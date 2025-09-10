@@ -1,0 +1,14 @@
+{
+  "keywords": ["مرحبا", "Hello", "مساعدة"],
+  "allowed_groups": [
+    {
+      "id": "whatsapp:+201234567890",
+      "name": "اختبار",
+      "reply_type": "group",
+      "template": "ar",
+      "custom_reply": ""
+    }
+  ],
+  "group_reply_template_ar": "تفضل {user}، سيتم التواصل مع>
+  "group_reply_template_en": "Hi {user}, we will contact y>
+}
