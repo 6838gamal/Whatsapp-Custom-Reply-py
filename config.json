@@ -1,11 +1,14 @@
 {
-  "bot_number": "201234567890",
-  "keywords": ["مرحبا", "Hello", "مساعدة"],
-  "allowed_groups": ["اختبار"],
-  "reply_private_ar": "مرحباً {user}، كيف أقدر أساعدك؟",
-  "reply_private_en": "Hi {user}, how can I help you?",
-  "reply_group_ar": "تفضل {user}، سيتم التواصل معك قريباً.",
-  "reply_group_en": "Hi {user}, we will contact you shortly.",
-  "enable_private": true,
-  "enable_groups": true
+  "keywords": ["مرحبا","Hello","مساعدة"],
+  "allowed_groups": [
+    {
+      "id": "123456789-123456@g.us",
+      "name": "اختبار",
+      "reply_type": "group",
+      "template": "ar",
+      "custom_reply": ""
+    }
+  ],
+  "group_reply_template_ar": "تفضل {user}، سيتم التواصل معك.",
+  "group_reply_template_en": "Hi {user}, we will contact you shortly."
 }
