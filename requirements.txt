@@ -1,7 +1,7 @@
 Flask
-#selenium==5.9.1
-#webdriver-manager==4.11.0
-pywhatkit
+selenium
+webdriver-manager
+#pywhatkit
 requests
 
 
