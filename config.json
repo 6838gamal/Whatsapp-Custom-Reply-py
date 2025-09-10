@@ -9,6 +9,6 @@
       "custom_reply": ""
     }
   ],
-  "group_reply_template_ar": "تفضل {user}، سيتم التواصل مع>
-  "group_reply_template_en": "Hi {user}, we will contact y>
+  "group_reply_template_ar": "تفضل {user}، سيتم التواصل معك قريبًا.",
+  "group_reply_template_en": "Hi {user}, we will contact you shortly."
 }
