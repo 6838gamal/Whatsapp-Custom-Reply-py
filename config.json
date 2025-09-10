@@ -9,22 +9,3 @@
   "enable_private": true,
   "enable_groups": true
 }
-
-
-
-
-
-#{
-#  "keywords": ["مرحبا", "Hello", "مساعدة"],
-#  "allowed_groups": [
-#    {
-#      "id": "1203630256789-123456789@g.us",
-#      "name": "اختبار",
-#      "reply_type": "group",
-#      "template": "ar",
-#      "custom_reply": ""
-#    }
-#  ],
-#  "group_reply_template_ar": "تفضل {user}، سيتم التواصل معك.",
-#  "group_reply_template_en": "Hi {user}, we will contact you."
-#}
